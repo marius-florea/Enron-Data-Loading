@@ -1,0 +1,4 @@
+venv
+input
+.DS_Store
+*.pyc
