@@ -1,4 +1,5 @@
-# Enron-Data-Loading-
+# Enron-Data-Loading
+
 Took the code from a notebook on kaggle that loads the Enron Email Dataset and optimized it. 
 Using multiprocessing library to be able to run code on multiple cores,
 and thus achieving 2mins nd55.14seconds vs x on my machine.
